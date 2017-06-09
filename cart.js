@@ -3,8 +3,8 @@ digitalData = {}
 digitalData = {
  
                 tripInfo:{
-                                revenue: "20",
-                                orderID: "756842",
+                                revenue: "40",
+                                orderID: "123842",
                                 countryDestination : "USA",
                                 countryResidence : "Canada",
                                 durationStay: "25",
