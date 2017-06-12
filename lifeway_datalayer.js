@@ -6,6 +6,7 @@ digitalData ={
     "userAction": {
         "actionName": "form-submit"
     },
+
     "page": {
         "pageInfo": {
             "pageName": "Home",
@@ -31,7 +32,7 @@ digitalData ={
             "register": "",
             "formLabel": "",
             "fileType": ""
-        }
+        },
     },
     "user": {
         "profile": {
@@ -41,8 +42,8 @@ digitalData ={
                 "socialID": "",
                 "signIn": "",
                 "accountID": ""
-            }
-        }
+            },
+        },
     },
      "search": {
         "internalSearchType": "",
@@ -52,7 +53,7 @@ digitalData ={
         "internalSearchSubcategory": "",
         "internalSearchFacets": {
             "facet0": "Publisher:WestBow Press,WestBow Press"
-        }
+        },
     },
     "results": {
         "searchResults": "76",
@@ -62,7 +63,7 @@ digitalData ={
         "serviceResults": "",
         "engageResults": "",
         "typeAheadkeyStrokes": ["rin", "ring", "Three Ring Circus: Life as a Missionary Kid in a Family of 11", "WALKING IN THE RINGS OF GOD"]
-    },
+    		},
     "product": [],
     "cart": {
 	        "price": {
@@ -81,7 +82,7 @@ digitalData ={
 	            "cartLocation": "",
 	            "cartAction": "",
 	            "isFirstCart": ""
-	        },
+	        	},
 	        "item": [{
 	            "productInfo": {
 	                "productID": "001280066",
@@ -92,7 +93,8 @@ digitalData ={
 	                "price": {
 	                    "basePrice": 29.99,
 	                    "currency": "USD"
-	                }
-	            }
-	        }]
+	                	},
+	            	},
+	        	}]
+            },
 }
