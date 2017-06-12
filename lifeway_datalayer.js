@@ -95,6 +95,6 @@ digitalData ={
 	                    "currency": "USD"
 	                	},
 	            	},
-	        	}]
+	        	}],
             },
 }
