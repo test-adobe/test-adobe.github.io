@@ -1,8 +1,8 @@
-digitalData = {};
+digitalData = {}
 
 
-digitalData =
-{
+digitalData ={
+    
     "userAction": {
         "actionName": "form-submit"
     },
