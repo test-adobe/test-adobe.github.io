@@ -3,7 +3,7 @@ digitalData ={}
 digitalData ={
     
     userAction: {
-        actionName: ""
+        actionName: "search"
     },
 
     tab: {
