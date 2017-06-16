@@ -30,7 +30,7 @@ digitalData ={
 
         search: {
         	onsiteSearchResults:"",
-        	onsiteSearchTerm:""
+        	onsiteSearchTerm:"travis_second_term"
         	},
 
         social: {
