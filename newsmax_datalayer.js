@@ -30,7 +30,7 @@ digitalData ={
 
         search: {
         	onsiteSearchResults:"",
-        	onsiteSearchTerm:"newsmax_test_term"
+        	onsiteSearchTerm:""
         	},
 
         social: {
