@@ -3,7 +3,7 @@ digitalData ={}
 digitalData ={
     
     userAction: {
-        actionName: ""
+        actionName: "search"
     },
 
     tab: {
@@ -30,7 +30,7 @@ digitalData ={
 
         search: {
         	onsiteSearchResults:"",
-        	onsiteSearchTerm:"newsmax_search"
+        	onsiteSearchTerm:"newsmax_test_search_second"
         	},
 
         social: {
