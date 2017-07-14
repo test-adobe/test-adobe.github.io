@@ -3,7 +3,7 @@ digitalData ={}
 digitalData ={
     
     userAction: {
-        actionName: ""
+        actionName: "transactionComplete"
     },
 
     tab: {
@@ -44,20 +44,20 @@ digitalData ={
         },
 
     transaction: {
-    		orderID: "",
-    		revenue:""
+    		orderID: "abcde",
+    		revenue:"12345"
     },
 
     item:[{
 
     	productInfo: {
-    		productID: "",
-    		productName:"",
+    		productID: "1234",
+    		productName:"abcd",
             upsellProductName: "",
             downsellProductName:"",
-            type:"",
+            type:"upsell",
     		sku:"",
-    		units:"",
+    		units:"12",
     		price:""
 
     	},
