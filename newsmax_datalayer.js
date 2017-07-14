@@ -55,6 +55,7 @@ digitalData ={
     		productName:"",
             upsellProductName: "",
             downsellProductName:"",
+            type:"",
     		sku:"",
     		units:"",
     		price:""
