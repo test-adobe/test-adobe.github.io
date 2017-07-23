@@ -3,6 +3,7 @@ digitalData = {}
 digitalData = {
  
                 tripInfo:{
+                                useraction:"confirmation_page",
                                 revenue: "60",
                                 orderID: "586842",
                                 countryDestination : "USA",
