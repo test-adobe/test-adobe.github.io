@@ -4,7 +4,7 @@ digitalData = {
  
                 tripInfo:{
                                 useraction:"confirmation_page",
-                                revenue: "60",
+                                revenue: "120",
                                 orderID: "586842",
                                 countryDestination : "USA",
                                 countryResidence : "Canada",
