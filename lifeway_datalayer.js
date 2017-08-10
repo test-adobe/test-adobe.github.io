@@ -4,7 +4,7 @@ digitalData = {}
 digitalData ={
     
     "userAction": {
-        "actionName": "form-submit"
+        "actionName": "transactioncomplete"
     },
 
     "page": {
